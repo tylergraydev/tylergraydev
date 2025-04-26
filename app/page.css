@@ -6,3 +6,12 @@
     min-height: 300px;
     font-size: xx-large;
 }
+
+
+.name {
+    position: relative;
+    font-size: 2rem;
+    font-weight: bold;
+    color: var(--color-background);
+    z-index: 100;
+}
