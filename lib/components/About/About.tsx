@@ -12,7 +12,8 @@ export default function About() {
             whether it's writing clean code, optimizing cloud solutions, or
             exploring new frameworks and tools. Outside of work, you’ll often
             find me building Lego creations, diving into Marvel stories, or
-            adventuring through World of Warcraft.
+            adventuring through World of Warcraft. I also am madly in love with
+            my fiancee, Shyann Marie Beaufort.
           </p>
         </div>
 
